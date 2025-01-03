@@ -35,6 +35,13 @@ word1 and word2 consist of lowercase English letters.
 
 */
 
+/*
+Time complexity: O(m + n)
+    We iterate through all characters
+Space complexity: O(m + n)
+    We put all characters into the list
+*/
+
 #include <iostream>
 #include <string>
 #include <cassert>
